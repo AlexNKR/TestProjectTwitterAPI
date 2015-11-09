@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestProject</string>
+
+    <string name="main_action_settings">Settings</string>
+    <string name="main_action_switch_view">Switch view</string>
+    <string name="help">Help</string>
+    <string name="main_navigation_drawer_logout">Logout</string>
+    <string name="map">map</string>
+    <string name="toast_home_load_error">Loading error</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="main_load_error">Loading error</string>
+    <string name="title_activity_image_show">ImageShowActivity</string>
+    <string name="title_activity_show_image">ShowImageActivity</string>
+    <string name="toast_main_connected">Connected</string>
+    <string name="toast_main_connected_error">Connecting error</string>
+    <string name="profile_tweets_count">TWEETS</string>
+    <string name="profile_followings_count">FOLLOWING</string>
+    <string name="profile_followers_count">FOLLOWERS</string>
+    <string name="main_refresh_button">Refresh</string>
+    <string name="title_main_activity">MainActivityTab</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
